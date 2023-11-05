@@ -1,3 +1,3 @@
 # JavaScript 
  JavaScript training codes
- edit testing branch 2
+ update test before branch 2 changes
