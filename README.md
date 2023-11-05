@@ -1,2 +1,2 @@
 # JavaScript 
- JavaScript Codes
+ JavaScript training codes
